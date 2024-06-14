@@ -1,0 +1,320 @@
+{
+    "terms": [
+        {
+            "title": "Action Chess",
+            "description": "A game where each player only has 30 minutes to make all his moves."
+        },
+        {
+            "title": "Algebraic Notation",
+            "description": "A method for writing moves down by using the names of the pieces and the ranks and files. Replaced older Descriptive Notation (“P-K4\" is now \"e4\") about 1970."
+        },
+        {
+            "title": "Amateur",
+            "description": "In chess, a non-master. At the US Amateur, masters cannot play; at the US Amateur Team tournaments, the team has to average below master rating. Note: in chess, amateurs can win money, sometimes quite a bit, at tournaments like the World Open."
+        },
+        {
+            "title": "Attack",
+            "description": "When you move a piece to a square where you could capture an opponent’s piece NEXT move."
+        },
+        {
+            "title": "Back Rank",
+            "description": "The rank where a player sets up his major pieces (1st for White; 8th for Black)."
+        },
+        {
+            "title": "Back-Rank Mate",
+            "description": "A checkmate on the 1st or 8th rank with a Rook or Queen."
+        },
+        {
+            "title": "Battery",
+            "description": "Lining up two pieces that move similarly, like a Queen and Rook or Queen and Bishop."
+        },
+        {
+            "title": "Blitz",
+            "description": "Fast chess. Many blitz games are 5 minutes per player for the entire game."
+        },
+        {
+            "title": "Book",
+            "description": "Besides the kind with a spine, a “book” move is one that a player has learned to play in a particular position in the opening (from a “book” or other media) without the need to “calculate”."
+        },
+        {
+            "title": "Blunder",
+            "description": "A bad move; primarily a move that turns a win into a loss or draw, or a draw into a loss."
+        },
+        {
+            "title": "Bughouse",
+            "description": "A variant of chess with two players on each side – a player gets the pieces his partner captures."
+        },
+        {
+            "title": "Bye",
+            "description": "What you get when you can’t play a round, but are still continuing to play in the tournament. Byes don’t count for ratings, but can be either 0 points, ½ point, or 1 point (in case you want to play, but are the odd person available)."
+        },
+        {
+            "title": "Capture",
+            "description": "(or Take) not Kill – to remove a piece from the board via a legal move."
+        },
+        {
+            "title": "Castle",
+            "description": "To move your unmoved King 2 squares toward an unmoved Rook and to move the Rook on the other side of the King is the castling move."
+        },
+        {
+            "title": "Check",
+            "description": "An attack on the King. You do not have to announce “check”."
+        },
+        {
+            "title": "Checkmate",
+            "description": "An attack on the King where there is no way for your opponent to finish his turn and no longer have the King attacked. To be checkmated."
+        },
+        {
+            "title": "CTD",
+            "description": "Club Tournament Director."
+        },
+        {
+            "title": "Desperado",
+            "description": "A piece that is going to be captured anyway so it can \"sacrifice\" itself at the highest cost."
+        },
+        {
+            "title": "Discovery",
+            "description": "An attack by a piece that was opened up via another piece’s move."
+        },
+        {
+            "title": "Double Attack",
+            "description": "An attack on two (or more) pieces by a single move."
+        },
+        {
+            "title": "Doubled Pawns",
+            "description": "Two pawns of the same color on the same file as a result of a capture."
+        },
+        {
+            "title": "Doubled Rooks",
+            "description": "Two Rooks forming a battery on a rank or file."
+        },
+        {
+            "title": "Draw",
+            "description": "Any game that ends without either player winning, e.g. Stalemate, Lack of Mating Material, 50-Move Rule, etc. The word 'tie' is not used."
+        },
+        {
+            "title": "En Passant",
+            "description": "Capturing a pawn that moved 2 spaces with a pawn that could have captured it if it had only moved 1 space, on the next turn only."
+        },
+        {
+            "title": "En Prise",
+            "description": "Literally 'in take' - able to be captured for free. A piece is en prise if it can be captured but is not guarded."
+        },
+        {
+            "title": "Endgame",
+            "description": "The part of the game where the King should come out and fight (with fewer pieces left on the board). The ending phase of chess."
+        },
+        {
+            "title": "Expert",
+            "description": "Someone with a US Chess Federation rating between 2000 and 2199."
+        },
+        {
+            "title": "Exchange",
+            "description": "Trading pieces, usually of equal value. Also trading ('winning') a Rook for a Knight or Bishop is to be 'up the Exchange'."
+        },
+        {
+            "title": "Fianchetto",
+            "description": "To develop a Bishop on a long diagonal (b2 or g2 for White; b7 or g7 for Black)."
+        },
+        {
+            "title": "FIDE",
+            "description": "International Chess Federation."
+        },
+        {
+            "title": "FIDE Master",
+            "description": "Someone with the lowest International Chess Title."
+        },
+        {
+            "title": "Fifty-Move Rule",
+            "description": "A type of draw where both players make 50 moves consecutively without either player advancing a pawn or making a capture."
+        },
+        {
+            "title": "File",
+            "description": "The rows of a chess board going up and down, lettered a-h (lower case), with 'a' always on White’s left (and Black’s right)."
+        },
+        {
+            "title": "Five Minute/Blitz",
+            "description": "A game where each player has five minutes to make all his moves."
+        },
+        {
+            "title": "Flag",
+            "description": "The part of an analog clock that rises when the minute hand nears the hour and falls at the hour. As a verb, 'to flag' means to lose the game on time."
+        },
+        {
+            "title": "Fool’s Mate",
+            "description": "A 2-move mate similar to 1.f3?? e5 2.g4??? Qh4#."
+        },
+        {
+            "title": "Forfeit",
+            "description": "When a player doesn't show up for a game he is forfeit and loses."
+        },
+        {
+            "title": "Fork",
+            "description": "A double attack, usually by a Knight or Pawn (thus looking like a “fork” in the road), a common chess tactic."
+        },
+        {
+            "title": "Grandmaster",
+            "description": "Someone with the highest International Chess Title."
+        },
+        {
+            "title": "Illegal Move",
+            "description": "A move that either a) Moves a piece in an illegal manner, or 2) Results in an illegal position."
+        },
+        {
+            "title": "International Master",
+            "description": "Someone with the intermediate International Chess Title."
+        },
+        {
+            "title": "Isolated Pawns",
+            "description": "Pawns that have no other pawns of the same color on adjacent files are isolated and 'alone', lacking support by fellow pawns."
+        },
+        {
+            "title": "Knight",
+            "description": "The chess piece that moves like an 'L', or the shortest move that is not a straight one."
+        },
+        {
+            "title": "LTD",
+            "description": "Local Tournament Director."
+        },
+        {
+            "title": "Master",
+            "description": "Someone with a US Chess Federation rating between 2200 and 2399."
+        },
+        {
+            "title": "Material",
+            "description": "A way to determine piece value; or the winning of a pawn (or piece, or Exchange) means winning 'material'."
+        },
+        {
+            "title": "NTD",
+            "description": "National Tournament Director."
+        },
+        {
+            "title": "Open File",
+            "description": "A file with no pawns of either color."
+        },
+        {
+            "title": "Patzer",
+            "description": "A 'fish' or weak chess player."
+        },
+        {
+            "title": "Piece",
+            "description": "Any of the chessmen; a set of chess pieces. Sometimes non-pawns only, 'pieces and pawns'."
+        },
+        {
+            "title": "Pin",
+            "description": "An attack (by a Rook, Bishop or Queen) on a piece that cannot or should not move, because a piece behind the attacked piece is worth even more. If the piece behind is a King, this is an 'absolute' pin and the pinned piece is not allowed to move, or it would put the King into check."
+        },
+        {
+            "title": "Ply",
+            "description": "A half-move, or the move of one player. When both players move, that is two ply, or one full move."
+        },
+        {
+            "title": "Promote",
+            "description": "When a pawn reaches the other side of the board, the 8th rank, it can promote to a Queen, Rook, Bishop, or Knight on the promoting square."
+        },
+        {
+            "title": "Rank",
+            "description": "The rows of a chessboard going sideways, numbered 1st-8th starting from White’s side as 1st."
+        },
+        {
+            "title": "Rating",
+            "description": "A measure of skill. USCF Ratings range from roughly 0 (basically impossible to get this low - no one ever has) to 3000; most scholastic beginners start around 400. Even if you lose all your games in your first few tournaments you are still usually about 200."
+        },
+        {
+            "title": "Repetition",
+            "description": "A type of draw where the same position is reached three times with the same player to move. Does not require the same moves and can occur at any point in the game."
+        },
+        {
+            "title": "Resigns",
+            "description": "When you purposely turn down your King or say 'I resign' – the game is over and you lose. Note that shaking hands does not end a game."
+        },
+        {
+            "title": "Round Robin",
+            "description": "A system of pairing players where everyone in the same (small) section plays everyone else. Unlike the swiss system, this type of tournament calls for some level of commitment on the part of the players to attempt to complete all their games."
+        },
+        {
+            "title": "Scholar’s Mate",
+            "description": "To mate on f7 (or, for Black, f2) with a Queen or a Bishop in 4 moves – usually a very bad thing to try. When teaching about this, Dan calls this 'Dumb and Dumber'."
+        },
+        {
+            "title": "Section",
+            "description": "A part of a chess tournament where the players are paired together. Sections may be divided by rating class, scholastic vs. non-scholastic, rated vs. unrated, Scholastic Level, etc."
+        },
+        {
+            "title": "Semi-Open File",
+            "description": "A file with only one pawn, belonging to the opponent."
+        },
+        {
+            "title": "Senior Master",
+            "description": "Someone with a US Chess Federation rating over 2399."
+        },
+        {
+            "title": "Skewer",
+            "description": "Sometimes called an 'x-ray' attack, a sort of inside-out pin. A move that attacks a piece of value, but there is a piece behind it of equal or lesser value that will be captured anyway if the attacked piece moves."
+        },
+        {
+            "title": "Skittles",
+            "description": "Chess for fun or chess without a clock; a skittles room is where you go and play for fun while waiting for your next formal pairing."
+        },
+        {
+            "title": "Stalemate",
+            "description": "When the player to move isn’t in check, but none of his pieces can move. This is a type of draw - but not all draws are stalemantes."
+        },
+        {
+            "title": "Sudden Death",
+            "description": "A final time control period where the game must be completed within a certain amount of time, say 20 minutes on each player's clock."
+        },
+        {
+            "title": "Swiss System",
+            "description": "A system of pairing tournaments whereby players are paired against opponents who are doing about as well as they are. Wherever possible, players get about an equal number of games with Black and White, and will not play the same opponent twice."
+        },
+        {
+            "title": "TD",
+            "description": "Tournament Director."
+        },
+        {
+            "title": "Tactics",
+            "description": "The mechanics of combining piece moves and creating threats; involving piece safety, checks, attacks, etc. Advanced tactics are considered 'combinations' of tactical motifs, such as pins, forks, removal of the guard and so forth."
+        },
+        {
+            "title": "Team Tournament",
+            "description": "A tournament where the players play in rating order, first board against first, second against second, etc. The result is a team win, loss, or draw, depending on whether most of the players win or lose (or half of them do)."
+        },
+        {
+            "title": "Tempo",
+            "description": "The 'time' invested in developing the pieces harmoniously. A pawn is said to be worth 3 tempi, or 3 turns."
+        },
+        {
+            "title": "Threat",
+            "description": "A move which can win material, checkmate, or make progress next move if the opponent does not stop it. Attacking an undefended piece is a possible threat."
+        },
+        {
+            "title": "Time Delay",
+            "description": "The preferred way of using a clock at a USCF tournament; a digital clock is set to NOT run for a defined number of seconds on each move."
+        },
+        {
+            "title": "Touch Move",
+            "description": "The rule that says if you touch a piece you have to move it. If you let go of a piece you have to leave it there, and if you purposely displace an opponent’s piece, you have to take it."
+        },
+        {
+            "title": "Unrated",
+            "description": "An unrated player has never played a rated game, or his rating has not yet become official by the USCF (ratings become official every two months). An unrated game is one that will not be played for a rating."
+        },
+        {
+            "title": "USCF",
+            "description": "United States Chess Federation."
+        },
+        {
+            "title": "Woodpusher",
+            "description": "A duffer or weak chess player."
+        },
+        {
+            "title": "Zugzwang",
+            "description": "The obligation to move, when any move at all will be bad."
+        },
+        {
+            "title": "Zwischenzug",
+            "description": "An in-between move. For example, instead of re-capturing, a check may be given first."
+        }
+    ]
+}

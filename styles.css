@@ -1,0 +1,163 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  color: #333;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+header {
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  border-radius: 10px;
+  margin: 20px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2em;
+  color: #333;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+  padding: 20px;
+  width: 300px;
+  transition: 3s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+h2 {
+  margin-top: 0;
+  font-size: 1.5em;
+  color: #333;
+}
+
+p {
+  font-size: 1em;
+  color: #666;
+  line-height: 1.5;
+}
+
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.card {
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark-mode .card {
+  background-color: #1e1e1e;
+  color: #888888 !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+body.dark-mode .card h2 {
+  color: rgb(187, 187, 187);
+}
+
+.term-title {
+  font-weight: bold;
+}
+
+body.dark-mode .term-title {
+  color: #ffffff;
+}
+
+
+
+
+
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #e7e7e7;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark-mode header {
+  background-color: #1e1e1e;
+  border-bottom-color: #333;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #555555;
+  transition: color 0.3s;
+}
+
+
+.logo img {
+  height: 40px;
+  margin-right: 10px;
+}
+
+.header-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.header-buttons button,
+.header-buttons a {
+  background: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  padding: 10px;
+  transition: color 0.3s;
+}
+
+.header-buttons a {
+  text-decoration: none;
+}
+
+.header-buttons a:hover,
+.header-buttons button:hover {
+  color: #007bff;
+}
+
+body.dark-mode .header-buttons a:hover,
+body.dark-mode .header-buttons button:hover {
+  color: #66ccff;
+}
